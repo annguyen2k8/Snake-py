@@ -1,3 +1,7 @@
+"""
+snake-py made by annguyen2k8#0
+please add friend and DM me if code have prolems.
+"""
 import sys
 from time import sleep
 from random import randint
